@@ -18,5 +18,5 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////////
 
 #include "TopiaryRiffzVariationButtonsComponent.h"
-#include "../../Topiary/Source/Components/TopiaryVariationButtonsComponent.cpp.h"
+#include "../Topiary/Source/Components/TopiaryVariationButtonsComponent.cpp.h"
 									

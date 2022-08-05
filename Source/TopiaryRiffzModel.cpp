@@ -21,9 +21,9 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 #include "Build.h"
 
 // following has std model code that can be included (cannot be in TopiaryModel because of variable definitions)
-#include"../../Topiary/Source/Model/TopiaryModel.cpp.h"
-#include "../../Topiary/Source/Model/TopiaryPattern.cpp.h"
-#include "../../Topiary/Source/Model/TopiaryPatternList.cpp.h"
+#include "../Topiary/Source/Model/TopiaryModel.cpp.h"
+#include "../Topiary/Source/Model/TopiaryPattern.cpp.h"
+#include "../Topiary/Source/Model/TopiaryPatternList.cpp.h"
 
 void TopiaryRiffzModel::saveStateToMemoryBlock(MemoryBlock& destData)
 {
@@ -1722,4 +1722,4 @@ int TopiaryRiffzModel::getNoteAssignmentNote()
 	return noteAssignmentNote;
 }
 
-#include "../../Topiary/Source/Components/TopiaryMidiLearnEditor.cpp.h"
+#include "../Topiary/Source/Components/TopiaryMidiLearnEditor.cpp.h"

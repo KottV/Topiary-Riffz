@@ -19,4 +19,4 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 
 #pragma once
 #include "TopiaryRiffzLogComponent.h"
-#include "../../Topiary/Source/Components/TopiaryLogComponent.cpp.h"
+#include "../Topiary/Source/Components/TopiaryLogComponent.cpp.h"

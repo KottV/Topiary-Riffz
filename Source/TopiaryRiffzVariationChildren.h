@@ -19,8 +19,8 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 
 #pragma once
 #include"TopiaryRiffzModel.h"
-#include "../../Topiary/Source/Components/TopiaryVariationChildren.h"
-#include "../../Topiary/Source/Components/TopiaryTable.h"
+#include "../Topiary/Source/Components/TopiaryVariationChildren.h"
+#include "../Topiary/Source/Components/TopiaryTable.h"
 
 class NoteAssignmentComponent : public Component
 {

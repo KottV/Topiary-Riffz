@@ -22,4 +22,4 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 #define TOPIARYMODEL TopiaryRiffzModel
 #define TOPIARYEDITORCOMPONENT TopiaryRiffzComponent
 
-#include "../../Topiary/Source/Plugin/PluginProcessor.h"
+#include "../Topiary/Source/Plugin/PluginProcessor.h"

@@ -19,4 +19,4 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 
 #pragma once
 #include "TopiaryRiffzVariation.h"
-#include "../../Topiary/Source/Model/TopiaryVariation.h"
+#include "../Topiary/Source/Model/TopiaryVariation.h"

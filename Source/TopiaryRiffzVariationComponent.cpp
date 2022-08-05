@@ -18,7 +18,7 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////////
 
 #include "../JuceLibraryCode/JuceHeader.h"
-#include "../../Topiary/Source/Topiary.h"
+#include "../Topiary/Source/Topiary.h"
 #include "TopiaryRiffzModel.h"
 #include "TopiaryRiffzVariationComponent.h"
 

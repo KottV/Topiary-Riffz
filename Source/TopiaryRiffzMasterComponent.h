@@ -19,7 +19,7 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 
 #pragma once
 #include "TopiaryRiffzMasterChildren.h"
-#include "../../Topiary/Source/Components/TopiaryTable.h"
+#include "../Topiary/Source/Components/TopiaryTable.h"
 
 class TopiaryRiffzMasterComponent : public Component, ActionListener
 {

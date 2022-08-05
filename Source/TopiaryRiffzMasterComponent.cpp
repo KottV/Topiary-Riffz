@@ -289,7 +289,7 @@ void TopiaryRiffzMasterComponent::loadPreset()
 
 void TopiaryRiffzMasterComponent::savePreset()
 {
-	riffzModel->savePreset("Please select Topiay Riffz file to load...", "*.tri");
+	riffzModel->savePreset("Please select Topiay Riffz file to save...", "*.tri");
 
 } // savePreset
 

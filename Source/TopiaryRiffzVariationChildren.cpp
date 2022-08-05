@@ -20,7 +20,7 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 #include "TopiaryRiffzModel.h"
 #include "TopiaryRiffzVariationComponent.h"
 #include "TopiaryRiffzVariationChildren.h"
-#include "../../Topiary/Source/Components/TopiaryVariationChildren.cpp.h"
+#include "../Topiary/Source/Components/TopiaryVariationChildren.cpp.h"
 
 /////////////////////////////////////////////////////////////////////////
 // NoteAssignmentComponent

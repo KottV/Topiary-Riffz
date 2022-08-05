@@ -18,7 +18,7 @@ along with Topiary. If not, see <https://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////////
 
 #pragma once
-#include "../../Topiary/Source/Model/TopiaryListModel.h"
+#include "../Topiary/Source/Model/TopiaryListModel.h"
 
 class TopiaryRiffzModel;
 

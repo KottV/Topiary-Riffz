@@ -21,4 +21,4 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 #include"TopiaryRiffzModel.h"
 #define TOPIARYMODEL TopiaryRiffzModel
 #define TOPIARYVARIATIONBUTTONSCOMPONENT TopiaryRiffzVariationButtonsComponent
-#include "../../Topiary/Source/Components/TopiaryVariationButtonsComponent.h"
+#include "../Topiary/Source/Components/TopiaryVariationButtonsComponent.h"

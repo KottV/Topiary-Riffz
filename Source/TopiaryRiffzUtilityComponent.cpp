@@ -18,5 +18,5 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////////
 
 #include "TopiaryRiffzUtilityComponent.h"
-#include "../../Topiary/Source/Components/TopiaryUtilityComponent.cpp.h"
+#include "../Topiary/Source/Components/TopiaryUtilityComponent.cpp.h"
 

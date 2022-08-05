@@ -20,12 +20,12 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 #pragma once
 
 #include "TopiaryRiffz.h"
-#include "../../Topiary/Source/Model/TopiaryPatternList.h"
-#include "../../Topiary/Source/Model/TopiaryPattern.h"
-#include "../../Topiary/Source/Model/TopiaryVariation.h"
-#include "../../Topiary/Source/Model/TopiaryNoteOffBuffer.h"
-#include "../../Topiary/Source/Model/TopiaryKeytracker.h"
-#include "../../Topiary/Source/Components/TopiaryMidiLearnEditor.h"
+#include "../Topiary/Source/Model/TopiaryPatternList.h"
+#include "../Topiary/Source/Model/TopiaryPattern.h"
+#include "../Topiary/Source/Model/TopiaryVariation.h"
+#include "../Topiary/Source/Model/TopiaryNoteOffBuffer.h"
+#include "../Topiary/Source/Model/TopiaryKeytracker.h"
+#include "../Topiary/Source/Components/TopiaryMidiLearnEditor.h"
 
 #include "NoteAssignmentList.h"
 
@@ -260,8 +260,8 @@ private:
 
 	//////////////////////////////////////////////////////////////////////////////////////////////////
 
-#include "..//..//Topiary/Source/Model/LoadMidiPattern.cpp.h"	
-#include "../../Topiary/Source/Model/Swing.cpp.h"
+#include "../Topiary/Source/Model/LoadMidiPattern.cpp.h"	
+#include "../Topiary/Source/Model/Swing.cpp.h"
 
 	
 	//////////////////////////////////////////////////////////////////////////////////////////////////

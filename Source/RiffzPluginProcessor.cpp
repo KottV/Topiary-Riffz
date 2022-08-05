@@ -19,4 +19,4 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 
 #include "RiffzPluginProcessor.h"
 #include "RiffzPluginEditor.h"
-#include "../../Topiary/Source/Plugin/PluginProcessor.cpp.h"
+#include "../Topiary/Source/Plugin/PluginProcessor.cpp.h"

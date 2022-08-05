@@ -18,7 +18,7 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 /////////////////////////////////////////////////////////////////////////////
 
 #pragma once
-#include "../../Topiary/Source/Model/TopiaryModel.h"
+#include "../Topiary/Source/Model/TopiaryModel.h"
 #define TOPIARYMODEL TopiaryRiffzModel
 #define TOPIARYLOGCOMPONENT TopiaryRiffzLogComponent
 #define TOPIARYTRANSPORTCOMPONENT TopiaryRiffzTransportComponent

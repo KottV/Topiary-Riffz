@@ -19,5 +19,5 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 
 #include "../JuceLibraryCode/JuceHeader.h"
 #include "TopiaryRiffzTransportComponent.h"
-#include "../../Topiary/Source/Components/TopiaryTransportComponent.cpp.h"
+#include "../Topiary/Source/Components/TopiaryTransportComponent.cpp.h"
 

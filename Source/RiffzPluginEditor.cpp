@@ -19,4 +19,4 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 
 #pragma once
 #include "RiffzPluginEditor.h"
-#include "../../Topiary/Source/Plugin/PluginEditor.cpp.h"
+#include "../Topiary/Source/Plugin/PluginEditor.cpp.h"

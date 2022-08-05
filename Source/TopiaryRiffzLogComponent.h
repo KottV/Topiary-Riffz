@@ -21,4 +21,4 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 #include"TopiaryRiffzModel.h"
 #define TOPIARYMODEL TopiaryRiffzModel
 #define TOPIARYLOGCOMPONENT TopiaryRiffzLogComponent
-#include "../../Topiary/Source/Components/TopiaryLogComponent.h"
+#include "../Topiary/Source/Components/TopiaryLogComponent.h"

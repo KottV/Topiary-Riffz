@@ -19,5 +19,5 @@ along with Topiary Riffz. If not, see <https://www.gnu.org/licenses/>.
 
 #pragma once
 #include"TopiaryRiffzModel.h"
-#include "../../Topiary/Source/Components/TopiaryUtilityComponent.h"
+#include "../Topiary/Source/Components/TopiaryUtilityComponent.h"
 
