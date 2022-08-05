@@ -151,7 +151,7 @@ void  NoteAssignmentComponent::paint(Graphics& g)
 	g.drawRoundedRectangle((float)recBounds.getX() + lineWidth, (float)recBounds.getY() + lineWidth, (float)recBounds.getWidth() - 2 * lineWidth, (float)recBounds.getHeight() - 2 * lineWidth, (float)lineWidth, (float)lineWidth);
 
 	// turn it into inner rectangle
-	auto inRecBounds = Rectangle<int>::Rectangle(recBounds.getX() + 3 * lineWidth, recBounds.getY() + 3 * lineWidth, recBounds.getWidth() - 6 * lineWidth, recBounds.getHeight() - 6 * lineWidth);
+	auto inRecBounds = Rectangle<int>(recBounds.getX() + 3 * lineWidth, recBounds.getY() + 3 * lineWidth, recBounds.getWidth() - 6 * lineWidth, recBounds.getHeight() - 6 * lineWidth);
 
 	auto tBounds = inRecBounds.removeFromLeft(250);
 	noteAssignmentTable.setBounds(tBounds);

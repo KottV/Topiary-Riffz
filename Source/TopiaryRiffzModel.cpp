@@ -314,7 +314,7 @@ bool TopiaryRiffzModel::insertPatternFromFile(int patternIndex, bool overload)
 	auto directory = File::getSpecialLocation(File::userHomeDirectory);
 
 	if (filePath.compare("") == 0)
-		directory = File::File(filePath);
+		directory = File(filePath);
 
 	FileChooser myChooser("Please select MIDI file to load...", filePath, "*.mid");
 
